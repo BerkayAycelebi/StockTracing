@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\bin\Debug\StockTracking.exe.config
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\bin\Debug\StockTracking.exe
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\bin\Debug\StockTracking.pdb
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.Form1.resources
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.exe
+C:\Users\LENOVO\source\repos\StockTracking\StockTracking\obj\Debug\StockTracking.pdb
